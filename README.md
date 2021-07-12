@@ -1,0 +1,2 @@
+# GenericHostHostingStartup
+HostingStartup for GenericHost
